@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>second_kind</key>
+		<string>财会</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>银行</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>投资</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>法务</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>咨询</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>金融</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>教育</string>
+	</dict>
+</array>
+</plist>

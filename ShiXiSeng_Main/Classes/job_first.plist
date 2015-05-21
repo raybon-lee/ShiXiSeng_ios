@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>first_kind</key>
+		<string>不限类别</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>IT/互联网/通信/电子</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>产品/设计/运营/策划</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>人事/行政/管理/外语</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>市场/销售/商务/公关</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>广告/媒体/艺术/编辑</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>金融/教育/法务/咨询</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>房产/建筑/土木/物流</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>生物/医疗/餐饮/体育</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>NGO/环保/公益</string>
+	</dict>
+	<dict>
+		<key>first_kind</key>
+		<string>机械/重工/电气/材料</string>
+	</dict>
+</array>
+</plist>

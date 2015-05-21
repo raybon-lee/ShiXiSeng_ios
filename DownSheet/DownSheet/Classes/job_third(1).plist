@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>third_kind</key>
+		<string>前端</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>C/C++</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>Android</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>PHP</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>Hadoop</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>C#.NET</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>IOS</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>Java</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>测试</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>python/Ruby/Perl/Node.js</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>数据挖掘</string>
+	</dict>
+	<dict>
+		<key>third_kind</key>
+		<string>SEO</string>
+	</dict>
+</array>
+</plist>

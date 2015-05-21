@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>second_kind</key>
+		<string>人事</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>行政</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>管理</string>
+	</dict>
+	<dict>
+		<key>second_kind</key>
+		<string>外语</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>data</key>
+		<string>1个月</string>
+	</dict>
+	<dict>
+		<key>data</key>
+		<string>2个月</string>
+	</dict>
+	<dict>
+		<key>data</key>
+		<string>3个月</string>
+	</dict>
+	<dict>
+		<key>data</key>
+		<string>3个月以上</string>
+	</dict>
+</array>
+</plist>

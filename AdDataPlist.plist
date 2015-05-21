@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>image3.png</string>
+		<string>image0.png</string>
+		<string>image1.png</string>
+		<string>image2.png</string>
+	</array>
+	<array>
+		<string>魅力风景流水</string>
+		<string>远景小桥</string>
+		<string>近景小桥</string>
+		<string>夕阳无限好,只是进黄昏</string>
+	</array>
+</array>
+</plist>
